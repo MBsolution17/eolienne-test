@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="7.0.4" apprev="19982" id="node1">
+  <input height="1536" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" width="1536" leveltilesize="510" levelingroll="0" levelbias="0.400">
+    <level height="1536" width="1536" preload="0" predecode="0"/>
+    <level height="768" width="768" preload="0" predecode="0"/>
+    <level height="384" width="384" preload="1" predecode="1"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view fovmode="2" pannorth="0">
+    <start tilt="0" projection="4" fov="100" pan="0"/>
+    <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+    <min tilt="-90" pan="0" fovpixel="2"/>
+    <max tilt="90" scaletofit="1" fov="140" fovstereographic="330" pan="360" fovfisheye="360"/>
+  </view>
+  <userdata tags="Downloads" comment="" nodeid="node1" author="" title="" copyright="" description="" longitude="" info="" heading="0" datetime="" source="" customnodeid="" latitude=""/>
+  <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+    <label height="20" textcolor="0x000000" border="1" backgroundalpha="1" borderradius="1" wordwrap="1" width="180" borderalpha="1" enabled="1" background="1" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff"/>
+    <polystyle backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+  </hotspots>
+  <media/>
+  <transition softedge="0" zoomspeed="2" zoomfov="40" zoomafterinfov="140" zoomin="0" delay="none" zoomout="0" zoomafteroutfov="40" type="crossdissolve" zoomoutpause="1" enabled="1" blendtime="1" blendcolor="0x000000"/>
+  <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+  <control contextvr="1" sensitivity="8" dblclickfullscreen="0" lockedwheel="0" invertwheel="0" speedwheel="1" contextprojections="0" lockedmouse="0" invertcontrol="1" hideabout="0" rubberband="0" lockedkeyboard="0" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" zoomcentercursor="1"/>
+  <projectuserdata tags="" comment="" author="" title="" copyright="" description=""/>
+</panorama>
